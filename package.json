@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://AnthonyNoun.github.io/comp2156",
+  "homepage": "https://anthonynoun.github.io/comp2156/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
