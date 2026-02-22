@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnthonyNoun/comp2156/static/css/main.27ca76a1.css",
+    "main.js": "/AnthonyNoun/comp2156/static/js/main.f3f4a338.js",
+    "static/js/453.587ded94.chunk.js": "/AnthonyNoun/comp2156/static/js/453.587ded94.chunk.js",
+    "index.html": "/AnthonyNoun/comp2156/index.html",
+    "main.27ca76a1.css.map": "/AnthonyNoun/comp2156/static/css/main.27ca76a1.css.map",
+    "main.f3f4a338.js.map": "/AnthonyNoun/comp2156/static/js/main.f3f4a338.js.map",
+    "453.587ded94.chunk.js.map": "/AnthonyNoun/comp2156/static/js/453.587ded94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.f3f4a338.js"
+  ]
+}

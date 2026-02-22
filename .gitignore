@@ -1,1 +1,5 @@
+ dep-inclusions
 node_modules
+
+node_modules
+ main
